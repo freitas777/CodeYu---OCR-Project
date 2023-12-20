@@ -1,0 +1,2 @@
+image.tif
+image.box
